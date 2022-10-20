@@ -9,7 +9,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #030331;  
+  /* background-color: #030331;   */
+  background-color: #17cb50;  
 }
 
 .card {
